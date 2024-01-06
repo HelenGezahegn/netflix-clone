@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Input from "@/components/Input";
 import { useCallback, useState } from "react";
 
